@@ -2,9 +2,12 @@
 
 ## Description
 
-The aim of this project is teaching how to develop a recommender system and create necessary data pipeline to feed a recommendation system. To achieve that purpose, attendants must research and learn the basics of required technologies such as Docker, Spark Streaming & Spark ML, Kafka, Flume, Spring Boot and MongoDB.
+The aim of this project is teaching how to develop a recommender system and create necessary data pipeline to feed a recommendation system. To achieve that purpose, attendants must research and learn the basics of required technologies such as Docker, Spark Streaming & Spark ML, Kafka, Flume, Spring Boot and MongoDB. Architecture of the project is visualized in figure below.
 
-![System Overview](./images/recommendation-engine.png)
+![System Overview](./images/architecture.png)
+<p align="center">
+	Figure 1: Visualized architecture of the project.
+</p>
 
 ## Tasks
 

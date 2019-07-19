@@ -9,7 +9,7 @@ The aim of this project is teaching how to develop a recommender system and crea
 	Figure 1: Visualized architecture of the project.
 </p>
 
-## Tasks
+## 14 Days Learning Plan
 
 * Git & Docker investigating (2 days)
 
@@ -30,6 +30,11 @@ The aim of this project is teaching how to develop a recommender system and crea
 * A Spark job will read user actions in real-time, and produce user recommendations from pretrained model and then save to MongoDB. (3 days)
 
 * Dockerize all applications & provide a docker-compose file for easy initialization of the system (3 days)
+
+### Other Requirements
+
+* All tasks must be done with [the Mob Programming](https://en.wikipedia.org/wiki/Mob_programming) to spread all of the knowledge between attendants.
+* Must use [the Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) in order to not losing track of time.
 
 ## Footnote
 
